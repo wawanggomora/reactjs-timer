@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.time-loader {
+  width: 150px;
+  color: #fff;
+  padding: 5px 0;
+  margin-bottom: 7px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.time-loader span {
+  font-weight: 700;
+}
+
+.hidden {
+  display: none;
+}
+.block {
+  display: block;
+}
